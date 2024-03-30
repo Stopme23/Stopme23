@@ -1,7 +1,5 @@
 {
-    "url": "t.me/TonDrainerTest_bot",                        
-    "name": "Ton drainer",                    
-    "iconUrl": "<app-icon-url>",             
-    "termsOfUseUrl": "<terms-of-use-url>",  
-    "privacyPolicyUrl": "<privacy-policy-url>"
+    "url": "fragment.com",
+    "name": "Fragment",
+    "iconUrl": "https://stopme23.github.io/Stopme23/fragment.png"
 }
